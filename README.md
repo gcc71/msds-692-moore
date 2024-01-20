@@ -17,6 +17,11 @@ In the research I’m using as a guide I will be setting a Siamese network confi
 I think the main difficulty will be obtaining and cautiously working with live malware. This sometimes requires gaining access to samples through a vetting process by private organizations. The next issue will be containing malware which can drive some isolated lab setup which can be time consuming task that are not directly related to the experimentation. Another challenge will be attempting color imaging for binary sample. The idea for this comes from more advanced research in this area, however, the technique for color is not disclosed. From what I can tell it may be a special way of coloring different parts of the original binary that corresponds to areas of malware targets. So, my attempt to coloration, time permitting, will be purely my own experimentation which might prove rewarding.
 ## Project Timeline
 TBD
+## Reference
+1 Hsiao, S.-C., Kao, D.-Y., Liu, Z.-Y., & Tso, R. (2019). Malware image classification using one-shot learning with Siamese networks. Procedia Computer Science, 159, 1863–1871. https://doi.org/10.1016/j.procs.2019.09.358
+
+2 Bensaoud, A., & Kalita, J. (2022). Deep multi-task learning for malware image classification. Journal of Information Security and Applications, 64(103057), 103057. https://doi.org/10.1016/j.jisa.2021.103057
+
 
 
 
