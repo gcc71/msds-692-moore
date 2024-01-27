@@ -47,6 +47,17 @@ Wk8	Finalize presentation and presentation.<br>
 
 4 AHMAD AZAB , (Member, IEEE), AND MAHMOUD KHASAWNEH , (Member, IEEE). (2020, June 1). MSIC: Malware Spectrogram Image Classification. Ieee.Org. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9104999
 
+5 MSIC-Paper: MSIC: Malware Spectrogram Image Classification. (n.d.). Retrieved January 27, 2024, from https://github.com/AhmadAzab/MSIC-Paper
+
+6 Hashemi, M. (2019). Enlarging smaller images before inputting into convolutional neural network: zero-padding vs. interpolation. Journal of Big Data, 6(1). https://doi.org/10.1186/s40537-019-0263-7
+
+7 Pillow in Python won’t let me open image (“exceeds limit”). (n.d.). Stack Overflow. Retrieved January 27, 2024, from https://stackoverflow.com/questions/51152059/pillow-in-python-wont-let-me-open-image-exceeds-limit
+
+8 Ramalingam, A. (2021, June 23). How to Pick the Optimal Image Size for Training Convolution Neural Network? Analytics Vidhya. https://medium.com/analytics-vidhya/how-to-pick-the-optimal-image-size-for-training-convolution-neural-network-65702b880f05
+
+
+9 Brownlee, J. (2019, January 1). Impact of Dataset Size on Deep Learning Model Skill And Performance Estimates. MachineLearningMastery.Com. https://machinelearningmastery.com/impact-of-dataset-size-on-deep-learning-model-skill-and-performance-estimates/
+
 
 
 
